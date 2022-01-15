@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhirajsGithub
 - 👀 I’m interested in Web Dev, Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me borsedhiraj123@gmail.com
 
