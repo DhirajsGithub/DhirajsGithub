@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 **Portfolio & Contact**
-<div align="center">
+<div align="left">
   <a href="https://portfolio-dhirajsgithubs-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
   </a>
@@ -30,7 +30,7 @@
 ## 🛠️ **Skills & Tools**
 
 ### **Programming Languages**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,7 +40,7 @@
 </div>
 
 ### **Frameworks & Tools**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" alt="ReactNative" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
