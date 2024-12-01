@@ -23,8 +23,6 @@
 </div>
 
 
----
-
 ## 🛠️ **Skills & Tools**
 
 ### **Programming Languages**
@@ -62,7 +60,6 @@
   
 </div>
 
----
 
 ## 📊 **Activity**
 <div align="center">
@@ -71,7 +68,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajsGithub&theme=radical" alt="GitHub Streak" />
 </div>
 
----
 
 ## 💼 **Experience**
 
@@ -97,7 +93,6 @@
 - Integrated APIs with efficient error handling and data management.  
 - Worked with the Delivery Lead, Backend, and QA teams, applying Agile methodologies for timely feature delivery.  
 
----
 
 ## 💼 **Key Projects**
 ### [🚚 Yumtruk App and Admin Panel](https://github.com/DhirajsGithub/yum-trux)
@@ -109,7 +104,6 @@
 - Technologies: **MERN stack**, **Socket.io**, and **Expo Push Notifications**.  
 - **Role**: CTO, leading a 6-member team to deliver an impactful product.  
 
----
 
 ## 🏆 **Achievements & Leadership**
 
