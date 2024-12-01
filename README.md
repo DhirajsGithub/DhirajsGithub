@@ -1,11 +1,11 @@
-# 👋 Hi, I’m **Dhiraj Borse**
+# 👋 Hi, I’m **Dhiraj**
 
-🌟 **Web & Mobile Application Developer** | **CTO @ SkillShodh**  
+🌟 **Full-Stack Developer | React Native Developer | CTO @ Skill Shodh | Building Innovative Web & Mobile Solutions**  
 💡 Passionate about building scalable and efficient software solutions.  
 
 ---
 
-## 🌐 **React me out
+## 🌐Find me at
 <div align="left">
   <a href="https://portfolio-dhirajsgithubs-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
@@ -77,9 +77,9 @@
 
 ## 💼 **Experience**
 
-### 🚀 Intern at [Pathbeat](https://pathbeat.in/)  
+### 🚀 [Intern at Pathbeat](https://pathbeat.in/)  
 **Role**: React Native Developer  
-**Duration**: June 2024 - Oct 2024  
+**Duration**: June 2024 - Current  
 - Engineered the app from scratch using Redux, React Query, and React Hooks.  
 - Optimized performance with lazy loading, memoization, and code splitting.  
 - Worked closely with designers and backend developers to deliver a polished product.  
@@ -87,13 +87,23 @@
 
 ---
 
-### 🌐 Intern at [Trainity](https://trainity.in/)  
+### 🌐 [Intern at Trainity](https://trainity.in/)  
 **Role**: Full Stack Web Developer  
 **Duration**: Feb 2024 - April 2024  
 - Built and maintained REST APIs with Express.js and MongoDB, implementing authentication using JWT and OAuth.  
 - Optimized backend performance for scalability and efficiency.  
-- Developed responsive React components from Figma designs, integrating with backend APIs for a smooth user experience.  
+- Developed responsive React components from Figma designs, integrated backend APIs for seamless interaction.  
 
+---
+
+### 🏥 [Intern at Acumensa Technologies](https://acumensa.com/)  
+**Role**: Frontend Developer  
+**Duration**: April 2023 - August 2023  
+- Developed complex React components for a B2C healthcare web solution, optimizing UI/UX for end users.  
+- Integrated APIs with efficient error handling and data management.  
+- Worked with the Delivery Lead, Backend, and QA teams, applying Agile methodologies for timely feature delivery.  
+
+---
 
 ---
 
