@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Dhiraj**
 
-🌟 **Full-Stack Developer | React Native Developer | CTO @ Skill Shodh | Building Innovative Web & Mobile Solutions**  
+🌟 **Full-Stack Developer | React Native Developer | CTO @ Skill Shodh**  
 💡 Passionate about building scalable and efficient software solutions.  
 
 ## 🌐 Find me @
@@ -112,7 +112,22 @@
 ---
 
 ## 🏆 **Achievements & Leadership**
-- **Bronze Medalist**: Inter IIT Tech Meet 2022 at IIT Kanpur for designing a high-speed e-commerce distribution network.  
-- **Tech Fest Lead**: Led a team of 6 to build the official MERN stack website for IIT Dharwad’s Tech Fest [Parsec 2022](https://parsec.iitdh.ac.in/).  
+
+### 🥉 **Inter IIT Tech Meet 2022**  
+**IIT Kanpur**  
+**Position**: Bronze Medalist  
+**Duration**: Feb 2022 - April 2022  
+**Role**: Full Stack Developer  
+- Built a sustainable and well-connected high-speed distribution network for e-commerce brands, enabling same-day delivery solutions.
+- Played a key role in unlocking growth and simplifying scalability, significantly improving operational efficiency and customer experience.
+
+
+### 💻 **Tech Fest Lead**  
+**IIT Dharwad (Parsec 2022)**  
+**Position**: Web Development Team Lead  
+**Duration**: Jan 2022 - March 2022  
+- Led a team of 6 developers in creating a responsive MERN stack website for the college tech fest.
+- Managed the project from concept to completion, ensuring seamless collaboration between teams and successful deployment of the website.
+
 
 ---
