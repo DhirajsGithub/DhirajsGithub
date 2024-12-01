@@ -6,11 +6,24 @@
 ---
 
 ## 🌐 **Portfolio & Contact**
-- **Portfolio**: [Visit My Website](https://portfolio-dhirajsgithubs-projects.vercel.app/)  
-- **Email**: [borsedhiraj123@gmail.com](mailto:borsedhiraj123@gmail.com)  
-- **LinkedIn**: [Dhiraj Borse](https://linkedin.com/in/dhiraj-borse-141267240/)  
-- **GitHub**: [DhirajsGithub](https://github.com/DhirajsGithub)  
-- **LeetCode**: [Dhiraj's LeetCode Profile](https://leetcode.com/your_leetcode_profile_here/)  
+<div align="center">
+  <a href="https://portfolio-dhirajsgithubs-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:borsedhiraj123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/dhiraj-borse-141267240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/DhirajsGithub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/your_leetcode_profile_here/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
+
 
 ---
 
@@ -38,19 +51,23 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/socket_io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket io" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  
 </div>
 
 ---
 
 ## 📊 **Activity**
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Dhirajs_leetcode?ext=contest" alt="LeetCode Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=DhirajsGithub&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajsGithub&theme=radical" alt="GitHub Streak" />
 </div>
@@ -74,12 +91,3 @@
 - **Tech Fest Lead**: Led a team of 6 to build the official MERN stack website for IIT Dharwad’s Tech Fest [Parsec 2022](https://parsec.iitdh.ac.in/).  
 
 ---
-
-## 🤝 **Open to Collaborations**
-- Open-source contributions  
-- Innovative Web3, Blockchain, and Full-stack projects  
-
----
-
-### 📈 **GitHub Profile Views**
-![Profile Views](https://komarev.com/ghpvc/?username=DhirajsGithub&color=blue)
