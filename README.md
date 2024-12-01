@@ -5,7 +5,7 @@
 
 ---
 
-## 🌐 **Portfolio & Contact**
+## 🌐 **React me out
 <div align="left">
   <a href="https://portfolio-dhirajsgithubs-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
@@ -51,8 +51,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
-
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Post man" />
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
@@ -71,6 +72,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DhirajsGithub&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajsGithub&theme=radical" alt="GitHub Streak" />
 </div>
+
+---
+
+## 💼 **Experience**
+
+### 🚀 Intern at [Pathbeat](https://pathbeat.in/)  
+**Role**: React Native Developer  
+**Duration**: June 2024 - Oct 2024  
+- Engineered the app from scratch using Redux, React Query, and React Hooks.  
+- Optimized performance with lazy loading, memoization, and code splitting.  
+- Worked closely with designers and backend developers to deliver a polished product.  
+- Integrated third-party libraries like Razorpay for payments, and implemented custom animations, transitions, deep linking, and caching for a seamless user experience.  
+
+---
+
+### 🌐 Intern at [Trainity](https://trainity.in/)  
+**Role**: Full Stack Web Developer  
+**Duration**: Feb 2024 - April 2024  
+- Built and maintained REST APIs with Express.js and MongoDB, implementing authentication using JWT and OAuth.  
+- Optimized backend performance for scalability and efficiency.  
+- Developed responsive React components from Figma designs, integrating with backend APIs for a smooth user experience.  
+
 
 ---
 
