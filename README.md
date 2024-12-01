@@ -3,9 +3,7 @@
 🌟 **Full-Stack Developer | React Native Developer | CTO @ Skill Shodh | Building Innovative Web & Mobile Solutions**  
 💡 Passionate about building scalable and efficient software solutions.  
 
----
-
-## 🌐Find me at
+## 🌐 Find me @
 <div align="left">
   <a href="https://portfolio-dhirajsgithubs-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
@@ -77,7 +75,7 @@
 
 ## 💼 **Experience**
 
-### 🚀 [Intern at Pathbeat](https://pathbeat.in/)  
+### 📱 [Intern at Pathbeat](https://pathbeat.in/)  
 **Role**: React Native Developer  
 **Duration**: June 2024 - Current  
 - Engineered the app from scratch using Redux, React Query, and React Hooks.  
@@ -85,16 +83,12 @@
 - Worked closely with designers and backend developers to deliver a polished product.  
 - Integrated third-party libraries like Razorpay for payments, and implemented custom animations, transitions, deep linking, and caching for a seamless user experience.  
 
----
-
 ### 🌐 [Intern at Trainity](https://trainity.in/)  
 **Role**: Full Stack Web Developer  
 **Duration**: Feb 2024 - April 2024  
 - Built and maintained REST APIs with Express.js and MongoDB, implementing authentication using JWT and OAuth.  
 - Optimized backend performance for scalability and efficiency.  
 - Developed responsive React components from Figma designs, integrated backend APIs for seamless interaction.  
-
----
 
 ### 🏥 [Intern at Acumensa Technologies](https://acumensa.com/)  
 **Role**: Frontend Developer  
@@ -105,14 +99,12 @@
 
 ---
 
----
-
 ## 💼 **Key Projects**
-### [📱 Yumtruk App and Admin Panel](https://github.com/DhirajsGithub/yum-trux)
+### [🚚 Yumtruk App and Admin Panel](https://github.com/DhirajsGithub/yum-trux)
 - Built a mobile app using **React Native (Expo)** and an admin panel using **Express.js**, **Node.js**, and **MongoDB**.  
 - Integrated **Socket.io** for real-time notifications and **Stripe/PayPal** for payments.
 
-### [🌐 Skill Shodh](https://skillshodh.in/)
+### [👩‍💻 Skill Shodh](https://skillshodh.in/)
 - Developed a platform to connect students with skill-based internships, featuring real-time matching and seamless applications.  
 - Technologies: **MERN stack**, **Socket.io**, and **Expo Push Notifications**.  
 - **Role**: CTO, leading a 6-member team to deliver an impactful product.  
