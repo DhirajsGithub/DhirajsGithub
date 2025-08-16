@@ -83,7 +83,7 @@
 
 ### 📱 [Intern at Pathbeat](https://pathbeat.in/)  
 **Role**: React Native Developer  
-**Duration**: June 2024 - Current  
+**Duration**: June 2024 - Dec 2024  
 - Engineered the app from scratch using Redux, React Query, and React Hooks.  
 - Optimized performance with lazy loading, memoization, and code splitting.  
 - Worked closely with designers and backend developers to deliver a polished product.  
