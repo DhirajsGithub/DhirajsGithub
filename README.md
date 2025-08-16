@@ -71,6 +71,16 @@
 
 ## 💼 **Experience**
 
+
+### 🚀 [Software Development Engineer at Agastya AI](#)  
+**Role**: Software Developer (Full-time)  
+**Duration**: Jan 2025 - Present  
+- Leading development of advanced features and modules in a high-impact React Native application with a focus on **performance, scalability, and user experience**.  
+- Implementing modern solutions, resolving critical issues via **Sentry monitoring**, and driving continuous improvements across the codebase.  
+- Building cross-platform solutions with **React Native & Next.js**, ensuring seamless backend integrations and real-time functionalities.  
+- Championing clean architecture, reusable components, and best practices in a fast-paced, product-centric environment.  
+
+
 ### 📱 [Intern at Pathbeat](https://pathbeat.in/)  
 **Role**: React Native Developer  
 **Duration**: June 2024 - Current  
