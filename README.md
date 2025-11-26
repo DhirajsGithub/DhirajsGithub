@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Dhiraj**
 
-🌟 **Full-Stack Developer | React Native Developer 
+🌟 **Full-Stack Developer | React Native Developer**  
 💡 Passionate about building scalable and efficient software solutions.  
 
 ## 🌐 Find me @
