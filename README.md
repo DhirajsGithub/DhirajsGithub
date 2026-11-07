@@ -3,6 +3,9 @@
 🌟 **Full-Stack Developer | React Native Developer**  
 💡 Passionate about building scalable and efficient software solutions.  
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+
 ## 🌐 Find me @
 <div align="left">
   <a href="https://portfolio-dhirajsgithubs-projects.vercel.app/" target="_blank">
