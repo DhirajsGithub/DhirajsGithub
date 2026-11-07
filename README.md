@@ -3,7 +3,7 @@
 🌟 **Full-Stack Developer | React Native Developer**  
 💡 Passionate about building scalable and efficient software solutions.  
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" width="320" alt="My koi" />
 
 
 ## 🌐 Find me @
