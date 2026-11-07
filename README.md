@@ -2,10 +2,6 @@
 
 🌟 **Full-Stack Developer | React Native Developer**  
 💡 Passionate about building scalable and efficient software solutions.  
-
-<img src="koi/koi.gif" width="320" alt="My koi" />
-
-
 ## 🌐 Find me @
 <div align="left">
   <a href="https://portfolio-dhirajsgithubs-projects.vercel.app/" target="_blank">
@@ -67,8 +63,8 @@
 ## 📊 **Activity**
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/Dhirajs_leetcode?ext=contest" alt="LeetCode Stats" />
-   <img src="koi/koi.gif" width="256" alt="My koi" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajsGithub&theme=radical" alt="GitHub Streak" />
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </div>
 
 
