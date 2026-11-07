@@ -64,7 +64,7 @@
   <img src="https://leetcard.jacoblin.cool/Dhirajs_leetcode?ext=contest" alt="LeetCode Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajsGithub&theme=radical" height="195" alt="GitHub Streak" />
-  <img src="koi/koi.gif" height="195" alt="My koi" />
+  <img src="koi/koi.gif" height="256" alt="My koi" />
 </div>
 
 ## 💼 **Experience**
