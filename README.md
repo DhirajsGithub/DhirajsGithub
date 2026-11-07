@@ -67,7 +67,7 @@
 ## 📊 **Activity**
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/Dhirajs_leetcode?ext=contest" alt="LeetCode Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DhirajsGithub&show_icons=true&theme=radical" alt="GitHub Stats" />
+   <img src="koi/koi.gif" width="256" alt="My koi" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajsGithub&theme=radical" alt="GitHub Streak" />
 </div>
 
